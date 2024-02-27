@@ -25,3 +25,10 @@ git commit -m "comentario"
 
 --verifica todas as versoes criadas
 git log
+
+--retornar um determinado commit (versao)
+git reset --hard iddocommit
+git reset --hard head~1 (1 volta 1 versão, 2 volta 2 versoes)
+
+
+
