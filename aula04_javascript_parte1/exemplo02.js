@@ -1,0 +1,1 @@
+document.write("O carlinhos é um caridoso")
